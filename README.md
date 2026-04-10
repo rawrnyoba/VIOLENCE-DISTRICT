@@ -51,8 +51,7 @@
 ---
 
 ## FULL FEATURE PREMIUM FREE UNLOCK
-
-<table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(white, white) padding-box, linear-gradient(90deg, #ff4500, #ffcc00, #ff4500) border-box; animation: borderPulse 3s infinite;">
+<table align="center" style="border-collapse: collapse; border: 2px solid transparent; background: linear-gradient(white, white) padding-box, linear-gradient(90deg, #ff4500, #ffcc00, #ff4500) border-box;">
   <tr>
     <td>✅ Unlock All Skill (Premium)</td>
   </tr>

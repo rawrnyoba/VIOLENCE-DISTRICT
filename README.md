@@ -101,11 +101,14 @@
 
 ## FULL FEATURE PREMIUM FREE UNLOCK
 
-<table class="feature-table" align="center" style="width: 100%;">
-  <tr>
-    <td>✔ Unlock All Skill (Premium)</td>
-  </tr>
-</table>
+<div class="bg-dark">
+  <table class="feature-table" align="center" style="width: 100%;">
+    <tr>
+      <td>✔ Unlock All Skill (Premium)</td>
+    </tr>
+  </table>
+</div>
+
 <p align="center" style="background: linear-gradient(90deg, #ff4500, #ffcc00); background-size: 200% 200%; animation: gradientBG 2s ease infinite; padding: 12px; border-radius: 30px; color: black; font-weight: bold;">
   SEMUA FITUR PREMIUM DIBUKA GRATIS – TANPA KEY – TANPA VERIFIKASI
 </p>
@@ -121,6 +124,7 @@
 ```lua
 loadstring(game:HttpGet("https://mpanhub.vercel.app/violencedistrictnew"))()
 ```
+
 <p align="center"> Setelah execute, GUI muncul otomatis<br> Gunakan tombol <code>[</code> atau <code>]</code> untuk buka/tutup menu </p>
 
 LINK GAME RESMI

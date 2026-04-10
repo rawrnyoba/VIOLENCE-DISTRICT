@@ -19,6 +19,7 @@
 
 <p align="center">
   <code>#ViolenceDistrict</code> <code>#DistrikKekerasan</code> <code>#RobloxScript</code> <code>#FreeScriptNoKey</code> <code>#MpanHUB</code> <code>#OHK</code>
+  <code>#Mpan HUB</code> <code>#ViolenceDistrictScript</code> <code>#DistrikKekerasanScript</code> <code>#Violence District Script</code>
 </p>
 
 ---

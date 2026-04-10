@@ -54,7 +54,7 @@ CATATAN PENTING
 <ul> <li>100% GRATIS – Tidak ada key, tidak ada iklan paksa.</li> <li>Update otomatis via server Mpan HUB.</li> <li>Gunakan dengan bijak – resiko banned akun ditanggung sendiri.</li> <li>Dilarang menjual script ini – ini untuk semua orang.</li> </ul>
 
 DUKUNGAN & KONTAK
-<p align="center"> <a href="https://github.com/rawrnyoba"><img src="https://img.shields.io/badge/GitHub-Mpan_HUB-181717?style=for-the-badge&logo=github"></a> <a href="https://discord.gg/A8M32E7RgU"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.tiktok.com/@mpanhubtitikexe"><img src="https://img.shields.io/badge/TikTok-@mpanhub-black?style=for-the-badge&logo=tiktok&logoColor=white"></a> </p>
+<p align="center"> <a href="https://discord.gg/A8M32E7RgU"><img src="https://img.shields.io/badge/GitHub-Mpan_HUB-181717?style=for-the-badge&logo=github"></a> <a href="https://discord.gg/A8M32E7RgU"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.tiktok.com/@mpanhubtitikexe"><img src="https://img.shields.io/badge/TikTok-@mpanhub-black?style=for-the-badge&logo=tiktok&logoColor=white"></a> </p>
 
 <p align="center"> <b>LAPORKAN BUG ATAU REQUEST FITUR LEWAT ISSUES</b> </p>
 
@@ -72,4 +72,4 @@ MIT License – bebas digunakan, Free Tidak boleh dijual
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/> </p>
 
-<p align="center"> <b>Made with dedication by Mpan HUB – Best Free Roblox Scripts</b><br> <i>Violence District or Distrik Kekerasan</i> </p>
+<p align="center"> <b>Made by Mpan HUB – Best Free Roblox Scripts</b><br> <i>Violence District or Distrik Kekerasan</i> </p>

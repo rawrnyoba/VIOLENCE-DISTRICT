@@ -101,14 +101,11 @@
 
 ## FULL FEATURE PREMIUM FREE UNLOCK
 
-<div class="bg-dark">
-  <table class="feature-table" align="center" style="width: 100%;">
-    <tr>
-      <td>✔ Unlock All Skill (Premium)</td>
-    </tr>
-  </table>
-</div>
-
+<table class="feature-table" align="center" style="width: 100%;">
+  <tr>
+    <td>✔ Unlock All Skill (Premium)</td>
+  </tr>
+</table>
 <p align="center" style="background: linear-gradient(90deg, #ff4500, #ffcc00); background-size: 200% 200%; animation: gradientBG 2s ease infinite; padding: 12px; border-radius: 30px; color: black; font-weight: bold;">
   SEMUA FITUR PREMIUM DIBUKA GRATIS – TANPA KEY – TANPA VERIFIKASI
 </p>

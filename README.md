@@ -1,7 +1,7 @@
 # THE BEST FREE SCRIPT NO KEY VIOLENCE DISTRICT
 ## By Mpan HUB
 
-![GUI Script Violence District](https://i.ibb.co.com/3yM73KpT)
+![GUI Script Violence District](https://ibb.co.com/3yM73KpT)
 
 > Tampilan GUI script Violence District - Mpan HUB
 
